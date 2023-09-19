@@ -16,3 +16,4 @@ Input             | Rendered        |
 `$\int x^2 dx$` | $(\int x^2 dx)$
 `$\cos(\theta) $` | $(\cos(\theta))$
 `$ (1-e^x) $` | $((1-e^x))$
+`$ \frac{a}{b}` | $\frac{a}{b}$
